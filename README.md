@@ -1,1 +1,1 @@
-# <img src = "../img/githubProfile.jpg"/>
+# <img src = "githubProfile.JPG"/>
