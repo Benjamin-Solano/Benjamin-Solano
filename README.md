@@ -1,1 +1,1 @@
-# <img src = "githubProfile.JPG"/>
+# <img src = "githubanner.JPG"/>
