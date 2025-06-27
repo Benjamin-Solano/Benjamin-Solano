@@ -19,16 +19,16 @@
 <br/>
 <br/>
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   Studying at the National University of Costa Rica (UNA) <br/>
-   <img src="/imgs/img2.png" width="15"/>   Competitor in the ICPC (2025) <br/>
-   <img src="/imgs/img1.png" width="15"/>   Chess Player <br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
 
 <br/>
 <br/>
 
 <p>
-  I enjoy learning new technologies and problem solving at Codeforces and Codechef Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 <br/>
