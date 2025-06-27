@@ -24,7 +24,7 @@
 <div align = "center"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=400)<br/><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&theme=dark&icon_color=ffffff&bg_color=000000" />
+
 
 </div>
 <br/>
