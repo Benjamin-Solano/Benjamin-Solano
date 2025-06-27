@@ -21,7 +21,7 @@
 
 <h2 align="center""> Statistics </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=0,000000,474747&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=0,000000,474747&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=400)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=0,000000,474747&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=0,000000,474747&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=400)<br/>
 <br>
 <br>
 <br>
