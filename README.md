@@ -17,7 +17,7 @@
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right"/>
 <br/>
-<ul>
+<ul align="center">
   <li><p>Elemento 1</p></li>
   <li><p>Elemento 2</p></li>
   <li><p>Elemento 3</p></li>
