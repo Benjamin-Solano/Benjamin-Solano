@@ -13,22 +13,24 @@
 </p>
 <br>
 
-<h2 align="center"> About me </h2>
+<h2 align="center">About me</h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right"/>
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
-<ul align="center">
-  <li><p>Elemento 1</p></li>
-  <li><p>Elemento 2</p></li>
-  <li><p>Elemento 3</p></li>
-  <li><p>Elemento 4</p></li>
-</ul>
+<br/>
+<p align="center">
+  Studying at the National University of Costa Rica (UNA) <br/>
+  Competitor in the ICPC (2025) <br/>
+  Chess Player <br/>
+</p>
 
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
+<p>
+  I enjoy learning new technologies and problem solving at Codeforces and Codechef Now I'm working at some little and fun projects to practice my knowledge about JavaScript.
+</p>
+
 <br/>
 <h2 align="center"> Technologies </h2>
 
