@@ -14,6 +14,24 @@
 <br>
 
 <h2 align="center"> About me </h2>
+<table width="100%">
+  <tr>
+    <td align="center" width="40%" style="vertical-align: top;">
+      <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" />
+    </td>
+    <td align="center" width="60%" style="vertical-align: top;">
+      <h2>Tópicos que me gustan</h2>
+      <ul style="text-align: left;">
+        <li>Desarrollo Web</li>
+        <li>Backend con Java y Spring Boot</li>
+        <li>Frontend con React</li>
+        <li>APIs RESTful</li>
+        <li>Bases de Datos</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 
 <br/>
@@ -35,9 +53,9 @@
 
 <div align = "center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=400)<br/><br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=400)<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 <br/>
