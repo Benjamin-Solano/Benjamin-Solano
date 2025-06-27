@@ -12,8 +12,7 @@
 
 
 <div align="center"> 
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-Solano&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+ 
 </div>
 
 <br>
@@ -22,7 +21,7 @@
 
 <h2> <center> Statistics </center> </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=0,000000,474747&title_color=ffffff&icon_color=ffffff&text_color=ffffff)' ' '  ' ' '![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&hide_border=false)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=0,000000,474747&title_color=ffffff&icon_color=ffffff&text_color=ffffff)![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&hide_border=false&)<br/>
 <br>
 <br>
 <br>
