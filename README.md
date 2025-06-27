@@ -13,7 +13,7 @@
 </p>
 <br>
 
-<h2 align="center">About me</h2>
+<h2 align="center"> <img src="/imgs/title1.png" width="20"/> About me</h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -28,11 +28,11 @@
 <br/>
 
 <p>
-  I enjoy learning new technologies and problem solving at Codeforces and Codechef Now I'm working at some little and fun projects to practice my knowledge about JavaScript.
+  I enjoy learning new technologies and problem solving at Codeforces and Codechef Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
 <br/>
-<h2 align="center"> Technologies </h2>
+<h2 align="center"> <img src="/imgs/title2.png" width="20"/> Technologies </h2>
 
 
 <div align="center"> 
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-<h2 align="center""> Statistics </h2>
+<h2 align="center""> <img src="/imgs/title3.png" width="20"/> Statistics </h2>
 
 <div align = "center"> 
 
