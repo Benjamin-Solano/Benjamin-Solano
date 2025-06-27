@@ -40,6 +40,8 @@
 </p>
 
 <br/>
+<br/>
+<br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="20"/> Technologies </h2>
 
 <p align="center">
