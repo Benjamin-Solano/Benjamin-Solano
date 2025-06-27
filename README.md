@@ -19,9 +19,9 @@
 <br/>
 <br/>
 <p align="center">
-  Studying at the National University of Costa Rica (UNA) <br/>
-  Competitor in the ICPC (2025) <br/>
-  Chess Player <br/>
+   <img src="/imgs/img3.png" width="15"/>   Studying at the National University of Costa Rica (UNA) <br/>
+   <img src="/imgs/img2.png" width="15"/>   Competitor in the ICPC (2025) <br/>
+   <img src="/imgs/img1.png" width="15"/>   Chess Player <br/>
 </p>
 
 <br/>
