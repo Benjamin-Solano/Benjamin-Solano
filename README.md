@@ -35,6 +35,7 @@
 
 <p align="center">
    <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
    <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
