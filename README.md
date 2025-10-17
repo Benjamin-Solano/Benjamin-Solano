@@ -25,7 +25,6 @@
 <br>
 <br>
 <br>
-<br>
 
 
 <!-- Team -->
@@ -37,7 +36,6 @@
 <div align = "center">
   <p>
     <br>
-    <br>
     <b><em>Digity</em> fue fundada con la visión de redefinir la protección de las manos, combinando tecnología avanzada con diseño ergonómico.
     La empresa desarrolla soluciones innovadoras para prevenir lesiones laborales como la sobreextensión de articulaciones y el esfuerzo repetitivo,
     priorizando la seguridad, la comodidad y el rendimiento. Hoy, DIGITY sigue liderando la creación de soluciones portables que potencian las 
@@ -47,7 +45,6 @@
 
 
 
-<br>
 <br>
 <br>
 <br>
