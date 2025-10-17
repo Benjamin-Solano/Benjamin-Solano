@@ -52,7 +52,7 @@
 
 <!-- Proyect Information (Flagship) -->
 <div align="center">
-<h1> <i> Proyect Artus </i> </h1>
+<h1> <i> <img src = "./Digity-utils/Artus-Right-icon.png" width = "25"> Proyect Artus <img src = "./Digity-utils/Artus-Left-icon.png" width = "25"> </i> </h1>
 </div>
 <img src="./Digity-utils/Artus-2.gif" width="300" align="right" >
 <div align = "center">
