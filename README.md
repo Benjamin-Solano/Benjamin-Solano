@@ -40,6 +40,7 @@
   <p>
     <br>
     <br>
+    <br>
     <b><em>Digity</em> was founded with the vision of redefining hand protection by combining advanced technology with ergonomic design.
 The company develops innovative solutions to prevent workplace injuries such as joint overextension and repetitive strain,
 prioritizing safety, comfort, and performance. Today, DIGITY continues to lead the creation of wearable solutions that enhance
