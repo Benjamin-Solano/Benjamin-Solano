@@ -15,6 +15,7 @@
   <p>
     <br>
     <br>
+    <br>
     <b><em>Digity</em>, where we reinvent hand protection and performance through cutting-edge ergonomic technology.
       Our mission is to merge advanced engineering, human-centered design, and wearable solutions to prevent injuries, 
       enhance efficiency, and ensure a safer work environment. With our focus on innovation and excellence, we transform
@@ -37,6 +38,7 @@
 <img src="./Digity-utils/Digity-Team.png" width="450" align="left" >
 <div align = "center">
   <p>
+    <br>
     <br>
     <b><em>Digity</em> was founded with the vision of redefining hand protection by combining advanced technology with ergonomic design.
 The company develops innovative solutions to prevent workplace injuries such as joint overextension and repetitive strain,
