@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src = "./Digity-utils/Artus-1.gif" width ="1100" >
 <div align="center">
-<h1> <i> Wellcome to Digity </i> </h1>
+<h1> <i><img src = "./Digity-utils/iconIzq-1.png" width = "25"> Wellcome to Digity <img src = "./Digity-utils/iconDer-1.png" width = "25"></i> </h1>
 </div>
 
 
