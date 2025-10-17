@@ -10,6 +10,9 @@
 
 
 <!-- General Information  -->
-<div width = "300">
-  <p> Bienvenido a Digity, donde reinventamos la protección y el rendimiento de las manos con tecnología ergonómica de vanguardia. Nuestra misión es fusionar ingeniería avanzada, diseño centrado en el ser humano y soluciones portables para prevenir lesiones, potenciar la eficiencia y garantizar un entorno laboral más seguro. Con nuestro enfoque en innovación y excelencia, transformamos los desafíos cotidianos en oportunidades para un desempeño más saludable, conectado y confiable. </p>
+<div align = "center">
+  <p> <b>Digity<b>, donde reinventamos la protección y el rendimiento de las manos con tecnología ergonómica de vanguardia. Nuestra misión es fusionar ingeniería avanzada, diseño centrado en el ser humano y soluciones portables para prevenir lesiones, potenciar la eficiencia y garantizar un entorno laboral más seguro. Con nuestro enfoque en innovación y excelencia, transformamos los desafíos cotidianos en oportunidades para un desempeño más saludable, conectado y confiable. </p>
+
+
+    
 </div>
