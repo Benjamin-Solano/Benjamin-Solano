@@ -67,7 +67,6 @@
     larga duración en las manos asegurando menos días enfermo y un flujo de trabajo consistente. Protege contra condiciones degenerativas como
     la Artritis y mantiene a los empleados en forma y productivos previniendo una jubilación anticipada, además, fomenta un lugar de trabajo
     seguro y cómodo, reduciendo así costos de rotación.
-
    <br>
    <br>
      <ul> Mejor Proteccion </ul>
