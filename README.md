@@ -15,10 +15,11 @@
   <p>
     <br>
     <br>
-    <b><em>Digity</em>, donde reinventamos la protección y el rendimiento de las manos con tecnología ergonómica de vanguardia. 
-    Nuestra misión es fusionar ingeniería avanzada, diseño centrado en el ser humano y soluciones portables para prevenir lesiones, 
-    potenciar la eficiencia y garantizar un entorno laboral más seguro. Con nuestro enfoque en innovación y excelencia, 
-    transformamos los desafíos cotidianos en oportunidades para un desempeño más saludable, conectado y confiable.</b>
+    <b><em>Digity</em>, where we reinvent hand protection and performance through cutting-edge ergonomic technology.
+      Our mission is to merge advanced engineering, human-centered design, and wearable solutions to prevent injuries, 
+      enhance efficiency, and ensure a safer work environment. With our focus on innovation and excellence, we transform
+      everyday challenges into opportunities for healthier, more connected, and reliable performance.
+</b>
   </p>
 </div>
 
@@ -36,10 +37,11 @@
 <div align = "center">
   <p>
     <br>
-    <b><em>Digity</em> fue fundada con la visión de redefinir la protección de las manos, combinando tecnología avanzada con diseño ergonómico.
-    La empresa desarrolla soluciones innovadoras para prevenir lesiones laborales como la sobreextensión de articulaciones y el esfuerzo repetitivo,
-    priorizando la seguridad, la comodidad y el rendimiento. Hoy, DIGITY sigue liderando la creación de soluciones portables que potencian las 
-    capacidades humanas y transforman la seguridad en el entorno laboral.</b>
+    <b><em>Digity</em> was founded with the vision of redefining hand protection by combining advanced technology with ergonomic design.
+The company develops innovative solutions to prevent workplace injuries such as joint overextension and repetitive strain,
+prioritizing safety, comfort, and performance. Today, DIGITY continues to lead the creation of wearable solutions that enhance
+human capabilities and transform safety in the workplace.</b>
+
   </p>
 </div>
 
@@ -59,14 +61,12 @@
   <p>
     <br>
     <br>
-     <b><em>Artus</em>, nuestro modelo insignia probado y certificado como equipo de protección personal (PPE) busca minimizar las lesiones de
-    larga duración en las manos asegurando menos días enfermo y un flujo de trabajo consistente. Protege contra condiciones degenerativas como
-    la Artritis y mantiene a los empleados en forma y productivos previniendo una jubilación anticipada, además, fomenta un lugar de trabajo
-    seguro y cómodo, reduciendo así costos de rotación.
-   <br>
-     <ul> Mejor Proteccion </ul>
-     <ul> Más Productividad </ul>
-     <ul> Menos Lesiones </ul>
+     <b><em>Artus</em>, our flagship model, tested and certified as personal protective equipment (PPE), is designed to minimize long-term hand injuries, ensuring fewer sick days and a consistent workflow. It protects against degenerative conditions such as arthritis and helps employees stay healthy and productive, preventing early retirement. Moreover, it promotes a safer and more comfortable workplace, reducing turnover costs. <br>
+
+<ul> Better Protection </ul>  
+<ul> Higher Productivity </ul>  
+<ul> Fewer Injuries </ul></b>
+
    </b>
   </p>
 </div>
