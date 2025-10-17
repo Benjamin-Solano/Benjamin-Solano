@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src = "./Digity-utils/Artus-1.gif" width ="1100" >
 <div align="center">
-<h1> <i><img src = "./Digity-utils/iconIzq-1.png" width = "25"> Wellcome to Digity <img src = "./Digity-utils/iconDer-1.png" width = "25"></i> </h1>
+<h1> <i><img src = "./Digity-utils/iconIzq-1.png" width = "25">  Wellcome to Digity  <img src = "./Digity-utils/iconDer-1.png" width = "25"></i> </h1>
 </div>
 
 
@@ -29,7 +29,7 @@
 
 <!-- Team -->
 <div align="center">
-<h1> <i> Digity Team </i> </h1>
+<h1> <i> <img src = "./Digity-utils/team-left-icon.png" width = "25">  Digity Team  <img src = "./Digity-utils/team-right-icon.png" width = "25"> </i> </h1>
 </div>
 
 <img src="./Digity-utils/Digity-Team.png" width="450" align="left" >
@@ -52,7 +52,7 @@
 
 <!-- Proyect Information (Flagship) -->
 <div align="center">
-<h1> <i> <img src = "./Digity-utils/Artus-Right-icon.png" width = "25"> Proyect Artus <img src = "./Digity-utils/Artus-Left-icon.png" width = "25"> </i> </h1>
+<h1> <i> <img src = "./Digity-utils/Artus-Right-icon.png" width = "25">  Proyect Artus  <img src = "./Digity-utils/Artus-left-icon.png" width = "25"> </i> </h1>
 </div>
 <img src="./Digity-utils/Artus-2.gif" width="300" align="right" >
 <div align = "center">
