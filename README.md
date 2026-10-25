@@ -24,7 +24,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working on develop my Quantum Software Engineer skills with Qiskit and Guppy, also, I'm learning about software architecture for hibryd systems (Classical - Quantum).
 </p>
 
 
@@ -34,7 +34,7 @@
    <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
+   <img src="/imgs/img1.png" width="15"/>   <em><b> Quantum Mentor </b></em><br/>
 </p>
 
 <br/>
